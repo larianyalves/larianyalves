@@ -1,6 +1,6 @@
-### :wave: Hello, my name is Lariany, and:
+### :wave: Hello, my name is Lariany:
 
-* 👩‍💻 I am a student of the Systems Analysis and Development at Instituto Federal da Paraíba :
+* 👩‍💻 I am a student of the Systems Analysis and Development at Instituto Federal da Paraíba 
 * :computer: I'm learning HTML and CSS
 
 <!--
