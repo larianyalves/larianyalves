@@ -1,4 +1,7 @@
-### Hi there 👋
+### :wave: Hello, my name is Lariany, and:
+
+* 👩‍💻 I am a student of the Systems Analysis and Development at Instituto Federal da Paraíba :
+* :computer: I'm learning HTML and CSS
 
 <!--
 **larianyalves/larianyalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
